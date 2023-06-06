@@ -1,4 +1,6 @@
-angular.module('phoneList').component('phoneList',{
+angular.
+    module('phoneList').
+    component('phoneList',{
         templateUrl : 'phone-list/phone-list.template.html',
         controller : function PhoneListController(){
             this.phones = [
